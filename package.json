@@ -1,0 +1,19 @@
+{
+  "name": "alex-elliott-portfolio",
+  "version": "1.0.0",
+  "description": "A portfolio of my web development work",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "next", 
+    "build": "next build", 
+    "start": "next start"
+  },
+  "author": "Alexander Elliott",
+  "license": "ISC",
+  "dependencies": {
+    "next": "^13.4.2",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
