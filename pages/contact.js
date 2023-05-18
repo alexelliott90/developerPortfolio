@@ -1,6 +1,4 @@
-import Link from 'next/link'
 import Layout from '../components/MyLayout'
-import { Container } from 'react-bootstrap'
 
 export default () => (
     <Layout>

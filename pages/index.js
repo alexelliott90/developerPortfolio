@@ -1,6 +1,5 @@
 import Link from 'next/link'
 import Layout from '../components/MyLayout'
-import Image from 'react-bootstrap/Image'
 
 export default () => (
     <Layout>
